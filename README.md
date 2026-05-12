@@ -128,13 +128,6 @@ try {
 }
 ```
 
-## Publish ke NPM
-
-```bash
-npm login
-npm publish
-```
-
 ## License
 
 MIT
