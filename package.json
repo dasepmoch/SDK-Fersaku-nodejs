@@ -1,0 +1,14 @@
+{
+  "name": "fersaku",
+  "version": "1.0.0",
+  "description": "Official Fersaku QRIS Payment Gateway SDK for Node.js",
+  "main": "index.js",
+  "keywords": ["fersaku", "qris", "payment", "gateway", "indonesia", "e-wallet"],
+  "author": "Fersaku",
+  "license": "MIT",
+  "homepage": "https://fersaku.com/docs",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fersaku/fersaku-node"
+  }
+}
